@@ -1,4 +1,4 @@
-# Contagem de pessoas utilizando vídeos capturados por drones e deeplearning
+# Contagem de pessoas utilizando Deep Learning e drones
 #### Aluno: [Mateus Furlin Bampi](https://github.com/MateusBampi).
 #### Orientador: []().
 #### Co-orientadora: []().
