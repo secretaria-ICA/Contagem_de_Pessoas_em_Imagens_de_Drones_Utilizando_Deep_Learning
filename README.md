@@ -1,4 +1,4 @@
-# Contagem de pessoas utilizando deep learning e imagens aéreas
+# Contagem de pessoas em imagens de drones utilizando deep learning
 #### Aluno: [Mateus Furlin Bampi](https://github.com/MateusBampi).
 #### Orientador: [Manoela Kohler](https://github.com/manoelakohler).
 
