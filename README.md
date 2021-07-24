@@ -26,11 +26,14 @@ O treinamento foi bem sucedido e foi capaz de realizar inferências em imagens q
 
 Em seguida, realizamos inferências em imagens capturadas por drones e verificamos que de maneira geral, o comportamento foi bem satisfatório em certos ambientes. Porém, em algumas das inferências, o modelo teve uma performance muito ruim, o que provavelmente pode ser explicado pela base de treinamento que foi utilizada com pouca variedade de ambientes. Algumas das inferências são demonstradas abaixo:
 
-![Inferencia 1 teste](https://user-images.githubusercontent.com/84750991/126880357-e700f87b-be4e-4d30-bf70-053e69659a88.png) ![Inferência 2 teste](https://user-images.githubusercontent.com/84750991/126880367-c8c84b23-ac33-4f7f-b432-b977425940b4.png)
+![Inferencia 1 teste](https://user-images.githubusercontent.com/84750991/126880598-73dc036b-285b-4a38-99dc-cee05d095963.png) ![Inferência 2 teste](https://user-images.githubusercontent.com/84750991/126880599-d46d02d6-36f1-41b9-8763-28351fbee7bc.png)
 
-![Inferência 3 teste](https://user-images.githubusercontent.com/84750991/126880406-ca08a6dd-a05f-458f-a0cb-e842e4348b56.png) ![Inferencia 4 teste](https://user-images.githubusercontent.com/84750991/126880413-cb6b8609-6e72-4cc8-8497-49f813ebf6ed.png)
+![Inferência 3 teste](https://user-images.githubusercontent.com/84750991/126880600-9915642d-7776-493e-9b20-2ad7cd977a4d.png) ![Inferencia 4 teste](https://user-images.githubusercontent.com/84750991/126880602-566aa910-5bba-4b71-8a2e-5ed324dc6a97.png)
 
-![Inferencia 5 teste](https://user-images.githubusercontent.com/84750991/126880451-20bed006-6b4f-4140-9ec6-71c6c67f3595.png) ![Inferencia 6 teste](https://user-images.githubusercontent.com/84750991/126880478-7eec2449-e5f8-41d6-a940-67c94ff7bb08.png)
+![Inferencia 5 teste](https://user-images.githubusercontent.com/84750991/126880605-673f511b-f4c8-4e90-a0bc-a58022434590.png) ![Inferencia 6 teste](https://user-images.githubusercontent.com/84750991/126880607-ec48a503-d2b0-4916-8b38-1c7327e43eeb.png)
+
+
+
 
 
 ---
