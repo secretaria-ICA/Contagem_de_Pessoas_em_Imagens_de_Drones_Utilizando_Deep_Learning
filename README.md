@@ -1,4 +1,4 @@
-# Contagem de pessoas em imagens de drones utilizando deep learning
+# Contagem de Pessoas em Imagens de Drones Utilizando Deep Learning
 #### Aluno: [Mateus Furlin Bampi](https://github.com/MateusBampi).
 #### Orientador: [Manoela Kohler](https://github.com/manoelakohler).
 
@@ -31,10 +31,6 @@ Em seguida, realizamos inferências em imagens capturadas por drones e verificam
 ![Inferência 3 teste](https://user-images.githubusercontent.com/84750991/126880600-9915642d-7776-493e-9b20-2ad7cd977a4d.png) ![Inferencia 4 teste](https://user-images.githubusercontent.com/84750991/126880602-566aa910-5bba-4b71-8a2e-5ed324dc6a97.png)
 
 ![Inferencia 5 teste](https://user-images.githubusercontent.com/84750991/126880605-673f511b-f4c8-4e90-a0bc-a58022434590.png) ![Inferencia 6 teste](https://user-images.githubusercontent.com/84750991/126880607-ec48a503-d2b0-4916-8b38-1c7327e43eeb.png)
-
-
-
-
 
 ---
 
